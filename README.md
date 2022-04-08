@@ -5,7 +5,7 @@
 
 🔭 I’m currently working as Web Developer (Frontend);
 
-😄 Pronouns: She, Her;
+😄 Pronouns: She / Her;
 
 💻 Skills: HTML, CSS, JavaScript, ReactJS, Node, SQL, MongoDB, Scrum;
 
