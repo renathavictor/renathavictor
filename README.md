@@ -1,4 +1,4 @@
-## Hi there, I'm Renatha Victor 👋
+## Hi there, I'm Renatha 👋
 
 <p>I'm a Web Developer from Brazil, working with ReactJS.</p>
 </br>
