@@ -7,7 +7,7 @@
 
 😄 Pronouns: She / Her;
 
-💻 Skills: HTML, CSS, JavaScript, ReactJS, Node, SQL, MongoDB, Scrum;
+💻 Skills: HTML, CSS, JavaScript, ReactJS, Node, SQL, MongoDB;
 
 ✨ Soft Skills: Creative, Reliable, Organized, Team Player, Fast learner;
 
