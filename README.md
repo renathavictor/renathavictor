@@ -16,6 +16,7 @@
 🕹️ On my free time I watch tv shows and I play video games.
 
 </br>
+</hr>
 <h2 align='center'>Some Stats 📊</h2>
 </br>
 <h4 align='center'>Top Langs</h4>
