@@ -11,7 +11,7 @@
 
 ✨ Soft Skills: Creative, Reliable, Organized, Team Player, Fast learner;
 
-🌱 I’m currently learning more about Typescript and UI/UX;
+🌱 I’m currently learning more about Typescript and React Testing;
 
 🕹️ On my free time I watch tv shows and I play video games.
 
