@@ -1,17 +1,17 @@
 ## Hi there, I'm Renatha 👋
 
-<p>I'm a Web Developer from Brazil, working with ReactJS.</p>
+<p>I'm a Web Developer from Brazil, working with React using Typescript.</p>
 </br>
 
 🔭 I’m currently working as Web Developer (Frontend);
 
 😄 Pronouns: She / Her;
 
-💻 Skills: HTML, CSS, JavaScript, ReactJS, Node, SQL, MongoDB;
+💻 Skills: HTML, CSS, JavaScript, ReactJS, Typescript, Node, SQL, MongoDB;
 
 ✨ Soft Skills: Creative, Reliable, Organized, Team Player, Fast learner;
 
-🌱 I’m currently learning more about Typescript and React Testing;
+🌱 I’m currently learning more about React Testing and Storybook;
 
 🕹️ On my free time I watch tv shows and I play video games.
 
